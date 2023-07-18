@@ -1,4 +1,6 @@
 -- Queries --
+-- Dataset used for Portfolio Project: --
+-- https://ourworldindata.org/covid-deaths --
 -- CovidDeaths table
 Select * From PortfolioProject..CovidDeaths order by 3,4
 -- CovidVaccinations table
